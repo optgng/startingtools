@@ -25,7 +25,6 @@ ___
 
 ## Installing
 
-- Download [tsetup.4.5.3.dmg](https://desktop.telegram.org/ "Telegram Desktop") file to your Download directory
 - Download start_tg script to your home directory
 - Do `chmod +x start_tg.sh`
 - Run `bash start_tg.sh`
