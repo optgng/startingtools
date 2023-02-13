@@ -16,7 +16,6 @@ fi
 if [ ! -e $dirwget ]
 then
   echo -e "\033[34mInstalling wget..."
-  brsw
   brew install wget
 else 
   echo -e "\033[34mwget have been installed..."
